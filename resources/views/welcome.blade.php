@@ -35,7 +35,7 @@
                                     <span class="line-number">1</span>&lt;!DOCTYPE html&gt;
                                 </div>
                                 <div class="block">
-                                    <span class="line-number">2</span>&lt;<span class="tag">html</span> land=“en”&gt;
+                                    <span class="line-number">2</span>&lt;<span class="tag">html</span> lang=“en”&gt;
                                 </div>
                                 <div class="block">
                                     <span class="line-number">3</span>&lt;<span class="tag">head</span>&gt;
